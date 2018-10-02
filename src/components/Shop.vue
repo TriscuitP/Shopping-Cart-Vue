@@ -61,12 +61,12 @@ export default {
     return {
       products: [],
       quantities: [
-        {number: 0, inCart: false},
-        {number: 0, inCart: false},
-        {number: 0, inCart: false},
-        {number: 0, inCart: false},
-        {number: 0, inCart: false},
-        {number: 0, inCart: false}
+        {number: 0, inCart: false},  // Product 1
+        {number: 0, inCart: false},  // Product 2
+        {number: 0, inCart: false},  // Product 3
+        {number: 0, inCart: false},  // Product 4
+        {number: 0, inCart: false},  // Product 5
+        {number: 0, inCart: false}   // Product 6
       ],
       bluDiscount: false,
       dvdDiscount: false,
