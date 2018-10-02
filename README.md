@@ -1,6 +1,6 @@
 # shoppingcart-app
 
-> A Vue.js project
+> A Vue.js project. Most code is in the Shop.vue file located in src/components.
 
 ## Build Setup
 
