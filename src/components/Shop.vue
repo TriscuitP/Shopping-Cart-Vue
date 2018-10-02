@@ -76,7 +76,6 @@ export default {
   },
   /* Retrieve data(products) from cloud database */
   firestore () {
-    console.log('HERE1')
     return {
       products: db.collection('products')
     }
